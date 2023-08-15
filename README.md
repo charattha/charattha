@@ -1,7 +1,7 @@
 Hi !My name is Cha
 =============================================================================================================================================
 
-Full stack Developer
+Human Resources professional transitioning to Frontend Developer role. Strong communication and problem-solving skills from 4 years HR experience, now applying HTML, CSS, and JavaScript proficiency gained through self-study to create user-friendly web interfaces. Combining HR insights with technical expertise to contribute a unique perspective to development teams. Actively seeking opportunities for impactful contributions in frontend development.
 ------------------
 
 ### Frontend Skills
