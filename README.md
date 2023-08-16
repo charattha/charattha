@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name+is+Cha;Newbie+Full+Stack+Developer)](https://git.io/typing-svg)
 =============================================================================================================================================
 
-Human Resources professional transitioning to Frontend Developer role. Strong communication and problem-solving skills from 4 years HR experience, now applying HTML, CSS, and JavaScript proficiency gained through self-study to create user-friendly web interfaces. Combining HR insights with technical expertise to contribute a unique perspective to development teams. Actively seeking opportunities for impactful contributions in frontend development.
+<p>Human Resources professional transitioning to Frontend Developer role. Strong communication and problem-solving skills from 4 years HR experience, now applying HTML, CSS, and JavaScript proficiency gained through self-study to create user-friendly web interfaces. Combining HR insights with technical expertise to contribute a unique perspective to development teams. Actively seeking opportunities for impactful contributions in frontend development.</p>
 ------------------
 
 ### Frontend Skills
