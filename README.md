@@ -31,10 +31,10 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Airflow-017CEE%3Fstyle%3Dfor-the-badge%26logo%3Dapache-airflow%26logoColor%3Dwhite" alt="Airflow" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PySpark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapache-spark%26logoColor%3Dwhite" alt="PySpark" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/BigQuery-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="BigQuery" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite" alt="Kafka" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache_Airflow-017CEE%3Fstyle%3Dfor-the-badge%26logo%3Dapacheairflow%26logoColor%3Dwhite" alt="Airflow" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PySpark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dwhite" alt="PySpark" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/BigQuery-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglebigquery%26logoColor%3Dwhite" alt="BigQuery" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapachekafka%26logoColor%3Dwhite" alt="Kafka" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/dbt-FF694B%3Fstyle%3Dfor-the-badge%26logo%3Ddbt%26logoColor%3Dwhite" alt="dbt" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
 </p>
